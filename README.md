@@ -8,4 +8,4 @@ Game 2048 - Java swing
  * Win condition. The player wins if there is [2048] tile
  * Lose condition. The player loses if there are no valid moves
  # Screenshot
-![Jave 2048 swing](https://github.com/juliamartyn/2048/master/2048Screenshot.JPG)
+![Jave 2048 swing](https://github.com/juliamartyn/2048/blob/master/2048Screenshot.JPG)
